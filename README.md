@@ -19,7 +19,7 @@ git clone https://github.com/sosarenaint/real-estate-main.git
 After the cloning process, write the name of the project on the terminal screen, paste the code below and run it.
 
 ```
-cd react-portfolio && npm install
+cd real-estate-main && npm install
 ```
 
 ## Operation
